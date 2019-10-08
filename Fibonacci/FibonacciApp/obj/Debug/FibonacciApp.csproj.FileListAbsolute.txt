@@ -1,0 +1,7 @@
+D:\Source\Repos\Projects\Codewars\Codewars-Fibonacci\Fibonacci\FibonacciApp\obj\Debug\FibonacciApp.csprojAssemblyReference.cache
+D:\Source\Repos\Projects\Codewars\Codewars-Fibonacci\Fibonacci\FibonacciApp\obj\Debug\FibonacciApp.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Projects\Codewars\Codewars-Fibonacci\Fibonacci\FibonacciApp\bin\Debug\FibonacciApp.exe.config
+D:\Source\Repos\Projects\Codewars\Codewars-Fibonacci\Fibonacci\FibonacciApp\bin\Debug\FibonacciApp.exe
+D:\Source\Repos\Projects\Codewars\Codewars-Fibonacci\Fibonacci\FibonacciApp\bin\Debug\FibonacciApp.pdb
+D:\Source\Repos\Projects\Codewars\Codewars-Fibonacci\Fibonacci\FibonacciApp\obj\Debug\FibonacciApp.exe
+D:\Source\Repos\Projects\Codewars\Codewars-Fibonacci\Fibonacci\FibonacciApp\obj\Debug\FibonacciApp.pdb
